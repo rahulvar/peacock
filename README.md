@@ -15,3 +15,10 @@ Unstructed Data
 You can also save any data in Spreadsheet that is not structured. For example: a Ticket Booking form. In Ticket booking form there are no rows and columns. The information that you are filling is scattered across the form in different sections. Some sections has multiple rows, some sections has only values, multiple values for selection. In other words data is not stored in Tabular form. But it is stored as Label:Value form in different cells.
 
 
+Spreadsheet for Business 
+-------------------------
+Though today's entire runs using Relation Databases and Enterprise Resource Planning applications, the spreadsheets are playing a major role in decision making, planning, forecasting, Sales & Operations, Research & Development and many more areas.
+
+There is no Software application in Today's world except Spreadsheet that supports Formulas to Link different cells in different locations. Formula cells are automatically gets updated when referenced cells in that Formula changes. This perticuler feature is impossible to build in relational databases easily and efficiently.
+
+
